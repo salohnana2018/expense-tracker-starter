@@ -1,0 +1,4 @@
+{"type":"tech_stack","ts":"2026-06-20 20:35:39","project_name":"finance-tracker","project_version":"0.0.0","description":"","frameworks":["react"],"framework_versions":{"react":"19.2.0"},"key_deps":["Build (Vite)"],"dev_tools":["ESLint"],"package_manager":"npm","node_version":null,"module_type":"module"}
+{"type":"architecture","ts":"2026-06-20 20:35:39","project_type":"single-package","patterns":[],"key_directories":["src/","public/"],"entry_points":[]}
+{"type":"scripts","ts":"2026-06-20 20:35:39","available":{"dev":"vite","build":"vite build","lint":"eslint .","preview":"vite preview"}}
+{"type":"error","content":"Exit code 127 | /usr/bin/bash: line 1: gh: command not found"}
